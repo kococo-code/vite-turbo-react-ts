@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@usecase/*": [
+                "src/usecase/*"
+            ],
+            "@presenter/*": [
+                "src/presenter/*"
+            ],
+            "@entity/*": [
+                "src/entity/*"
+            ],
+            "@assets/*": [
+                "assets/*"
+            ],
+            "@laplace-chart/*": [
+                "src/components/LaplaceChart/*"
+            ]
+        }
+    }
+}
